@@ -1,0 +1,18 @@
+[package]
+name = "unimib-DISCo-phd-template"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Matteo Robert Child"]
+license = "MIT"
+description = "A template for PhD Day posters at the University of Milano-Bicocca, Department of Informatics, Systems and Communication (DISCo)."
+repository = "https://github.com/matchild/unimib-poster-template"
+keywords = ["poster", "academic"]
+categories = ["poster"]
+exclude = [
+	".github",
+]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"

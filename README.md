@@ -13,7 +13,7 @@ A template for PhD Day posters at the University of Milano-Bicocca, Department o
 > [!NOTE]
 > **main.typ** — Typst will ask you if you want to overwrite the main.typ file that was automatically generated. In this case you do.
 
-2. Edit the main.typ file and substitute `#lorem()` with your text.
+2. Edit the `main.typ` file and substitute `#lorem()` with your text.
 
 ```typst
 #show: main-heading.with(

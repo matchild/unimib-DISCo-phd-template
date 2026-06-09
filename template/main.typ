@@ -1,4 +1,4 @@
-#import "@preview/unimib-DISCo-phd-template:0.1.0": main-heading, dual-grid, wide-section
+#import "unimib-DISCo-phd-template.typ": main-heading, dual-grid, wide-section
 
 
 #show: main-heading.with(

@@ -12,7 +12,7 @@
 ///////////////////////////////////////////////////////////////////////// 
 /// 1. Global Document Settings
 /////////////////////////////////////////////////////////////////////////
-  #set text(font: ("Arial", "New Computer Modern"), size: 28pt)
+  #set text(font: ("Arial", "Noto Serif"), size: 28pt)
   #show figure.caption: set align(left)
   #set page("a0", margin: (x: 3cm, y: 3cm))
   
@@ -57,7 +57,7 @@
     ]),
   
     align(left,
-      text(size: 36pt, fill: black, font: ("Courier New", "DejaVu Sans Mono"))[#email]
+      text(size: 36pt, fill: black, font: ("Courier New", "Noto Serif"))[#email]
     )
   )
 
